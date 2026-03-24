@@ -47,13 +47,13 @@ The model evaluates asset, liability, and surplus values under different interes
 ## Visualizations
 
 ### Assets vs Liabilities
-![Assets vs Liabilities](assets_vs_liabilities.png)
+![Assets vs Liabilities](Assets%20vs%20Liabilities%20Under%20Interest%20Rate%20Shocks.png)
 
 ### Surplus Sensitivity
-![Surplus](surplus_sensitivity.png)
+![Surplus](Surplus%20Sensitivity%20to%20Interest%20Rates.png)
 
 ### Immunized vs Non-Immunized
-![Comparison](immunized_vs_non_immunized.png)
+![Comparison](Immunized%20vs%20Non-Immunized%20Portfolio.png)
 
 ---
 
